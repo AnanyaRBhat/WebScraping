@@ -23,7 +23,8 @@ python web.py
 
 ✅ After running, open http://localhost:8000/display_fresh.html in your browser.
 
-HOW IT WORKS ->
+HOW IT WORKS -> Pdf_Conversion.ipymb
+
 
 1. Ensure topics_fresh.json is available in the same directory or provide its path.
 2. Run the script, and all HTML pages will be generated in your directory.
