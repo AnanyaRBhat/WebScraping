@@ -23,3 +23,11 @@ python web.py
 
 ✅ After running, open http://localhost:8000/display_fresh.html in your browser.
 
+HOW IT WORKS ->
+
+1. Ensure topics_fresh.json is available in the same directory or provide its path.
+2. Run the script, and all HTML pages will be generated in your directory.
+3. Open index.html to access the extracted pages.
+4. Click Download as PDF on any page.
+5. When prompted, select Save as PDF to download.
+
