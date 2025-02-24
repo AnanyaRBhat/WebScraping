@@ -2,7 +2,7 @@
 
 
 
-🔧 How It Works
+🔧 How It Works -> Web.ipynb
 
 1️⃣ Runs web.py to Do Everything!
 
