@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Physics HL",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/heat-and-temperature/revision-notes/1271"
+    },
+    {
+        "name": "1.1.2\nSpecific heat capacity and latent heat",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/specific-heat-capacity-and-latent-heat/revision-notes/1290"
+    },
+    {
+        "name": "1.1.3\nMethods of heat transfer (conduction, convection, radiation)",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/methods-of-heat-transfer-conduction-convection-radiation/revision-notes/1330"
+    },
+    {
+        "name": "1.1.4\nThermal expansion",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/thermal-expansion/revision-notes/1348"
+    },
+    {
+        "name": "1.2.1\nEarth's energy balance",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/earths-energy-balance/revision-notes/1379"
+    },
+    {
+        "name": "1.2.2\nGreenhouse gases and their role",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/greenhouse-gases-and-their-role/revision-notes/1417"
+    },
+    {
+        "name": "1.2.3\nImpact of human activity on the greenhouse effect",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/impact-of-human-activity-on-the-greenhouse-effect/revision-notes/1438"
+    },
+    {
+        "name": "1.3.1\nIdeal gas law (PV = nRT)",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/ideal-gas-law-pv-nrt/revision-notes/1452"
+    },
+    {
+        "name": "1.3.2\nBoyle’s law, Charles’s law, Avogadro’s law",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/boyles-law-charless-law-avogadros-law/revision-notes/1486"
+    },
+    {
+        "name": "1.3.3\nReal gases and deviations from ideal gas behaviour",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/real-gases-and-deviations-from-ideal-gas-behaviour/revision-notes/1513"
+    },
+    {
+        "name": "1.4.1\nLaws of thermodynamics",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/laws-of-thermodynamics/revision-notes/1550"
+    },
+    {
+        "name": "1.4.2\nHeat engines and efficiency",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/heat-engines-and-efficiency/revision-notes/1575"
+    },
+    {
+        "name": "1.4.3\nEntropy and spontaneous processes",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/entropy-and-spontaneous-processes/revision-notes/1599"
+    },
+    {
+        "name": "1.5.1\nElectric charge and current",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/electric-charge-and-current/revision-notes/1628"
+    },
+    {
+        "name": "1.5.2\nOhm’s law and resistivity",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/ohms-law-and-resistivity/revision-notes/1646"
+    },
+    {
+        "name": "1.5.3\nKirchhoff’s laws",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/kirchhoffs-laws/revision-notes/1667"
+    },
+    {
+        "name": "1.5.4\nPower dissipation in resistors",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/power-dissipation-in-resistors/revision-notes/1694"
+    },
+    {
+        "name": "2.1.1\nTypes of waves: Transverse and longitudinal",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/types-of-waves-transverse-and-longitudinal/revision-notes/1280"
+    },
+    {
+        "name": "2.1.2\nProperties of waves (amplitude, frequency, wavelength, speed)",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/properties-of-waves-amplitude-frequency-wavelength-speed/revision-notes/1771"
+    },
+    {
+        "name": "2.1.3\nWave equations",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/wave-equations/revision-notes/1782"
+    },
+    {
+        "name": "2.2.1\nReflection, refraction, diffraction, and interference",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/reflection-refraction-diffraction-and-interference/revision-notes/1310"
+    },
+    {
+        "name": "2.2.2\nDoppler effect",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/doppler-effect/revision-notes/1336"
+    },
+    {
+        "name": "2.2.3\nStanding waves and resonance",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/standing-waves-and-resonance/revision-notes/1366"
+    },
+    {
+        "name": "2.3.1\nDisplacement, velocity, and acceleration in SHM",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/displacement-velocity-and-acceleration-in-shm/revision-notes/1726"
+    },
+    {
+        "name": "2.3.2\nEnergy in SHM",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/energy-in-shm/revision-notes/1749"
+    },
+    {
+        "name": "2.3.3\nPendulum and spring systems",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/pendulum-and-spring-systems/revision-notes/1763"
+    },
+    {
+        "name": "3.1.1\nQuantum theory and uncertainty principle",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/quantum-theory-and-uncertainty-principle/revision-notes/1291"
+    },
+    {
+        "name": "3.1.2\nWave-particle duality",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/wave-particle-duality/revision-notes/1742"
+    },
+    {
+        "name": "3.1.3\nPhotoelectric effect",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/photoelectric-effect/revision-notes/1768"
+    },
+    {
+        "name": "3.2.1\nTypes of radiation: Alpha, beta, gamma",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/types-of-radiation-alpha-beta-gamma/revision-notes/1307"
+    },
+    {
+        "name": "3.2.2\nHalf-life and decay constant",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/half-life-and-decay-constant/revision-notes/1335"
+    },
+    {
+        "name": "3.2.3\nRadioactive decay and applications",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/radioactive-decay-and-applications/revision-notes/1359"
+    },
+    {
+        "name": "3.3.1\nNuclear fission process",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/nuclear-fission-process/revision-notes/1385"
+    },
+    {
+        "name": "3.3.2\nChain reaction and critical mass",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/chain-reaction-and-critical-mass/revision-notes/1409"
+    },
+    {
+        "name": "3.3.3\nApplications of nuclear fission (nuclear reactors)",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/applications-of-nuclear-fission-nuclear-reactors/revision-notes/1428"
+    },
+    {
+        "name": "3.4.1\nNuclear fusion and energy production in stars",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/nuclear-fusion-and-energy-production-in-stars/revision-notes/1453"
+    },
+    {
+        "name": "3.4.2\nStellar nucleosynthesis",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/stellar-nucleosynthesis/revision-notes/1479"
+    },
+    {
+        "name": "3.4.3\nLife cycle of stars",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/life-cycle-of-stars/revision-notes/1494"
+    },
+    {
+        "name": "3.5.1\nAtomic models (Bohr, quantum model)",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/atomic-models-bohr-quantum-model/revision-notes/1692"
+    },
+    {
+        "name": "3.5.2\nElectron configuration and energy levels",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/electron-configuration-and-energy-levels/revision-notes/1711"
+    },
+    {
+        "name": "3.5.3\nIsotopes and atomic mass",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/isotopes-and-atomic-mass/revision-notes/1728"
+    },
+    {
+        "name": "4.1.1\nScalars and vectors",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/scalars-and-vectors/revision-notes/1319"
+    },
+    {
+        "name": "4.1.2\nDisplacement, velocity, and acceleration",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/displacement-velocity-and-acceleration/revision-notes/1340"
+    },
+    {
+        "name": "4.1.3\nEquations of motion (constant acceleration)",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/equations-of-motion-constant-acceleration/revision-notes/1352"
+    },
+    {
+        "name": "4.1.4\nGraphical analysis of motion",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/graphical-analysis-of-motion/revision-notes/1368"
+    },
+    {
+        "name": "4.2.1\nNewton’s laws of motion",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/newtons-laws-of-motion/revision-notes/1393"
+    },
+    {
+        "name": "4.2.2\nForce, mass, and acceleration",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/force-mass-and-acceleration/revision-notes/1406"
+    },
+    {
+        "name": "4.2.3\nMomentum and impulse",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/momentum-and-impulse/revision-notes/1440"
+    },
+    {
+        "name": "4.2.4\nConservation of momentum",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/conservation-of-momentum/revision-notes/1458"
+    },
+    {
+        "name": "4.2.5\nCollisions and explosions",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/collisions-and-explosions/revision-notes/1480"
+    },
+    {
+        "name": "4.3.1\nWork done by a force",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/work-done-by-a-force/revision-notes/1501"
+    },
+    {
+        "name": "4.3.2\nKinetic and potential energy",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/kinetic-and-potential-energy/revision-notes/1524"
+    },
+    {
+        "name": "4.3.3\nConservation of mechanical energy",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/conservation-of-mechanical-energy/revision-notes/1549"
+    },
+    {
+        "name": "4.3.4\nPower and efficiency",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/power-and-efficiency/revision-notes/1568"
+    },
+    {
+        "name": "4.4.1\nTorque and rotational motion",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/torque-and-rotational-motion/revision-notes/1592"
+    },
+    {
+        "name": "4.4.2\nMoment of inertia and angular acceleration",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/moment-of-inertia-and-angular-acceleration/revision-notes/1613"
+    },
+    {
+        "name": "4.4.3\nRotational kinetic energy",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/rotational-kinetic-energy/revision-notes/1631"
+    },
+    {
+        "name": "4.4.4\nAngular momentum and its conservation",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/angular-momentum-and-its-conservation/revision-notes/1653"
+    },
+    {
+        "name": "4.5.1\nFrames of reference",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/frames-of-reference/revision-notes/1671"
+    },
+    {
+        "name": "4.5.2\nLorentz transformation equations",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/lorentz-transformation-equations/revision-notes/1684"
+    },
+    {
+        "name": "4.5.3\nTime dilation and length contraction",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/time-dilation-and-length-contraction/revision-notes/1712"
+    },
+    {
+        "name": "4.5.4\nMass-energy equivalence (E = mc²)",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/mass-energy-equivalence-e-mc2/revision-notes/1730"
+    },
+    {
+        "name": "5.1.1\nGravitational force and field strength",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/gravitational-force-and-field-strength/revision-notes/1384"
+    },
+    {
+        "name": "5.1.2\nGravitational potential energy",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/gravitational-potential-energy/revision-notes/1407"
+    },
+    {
+        "name": "5.1.3\nKepler's laws and orbital mechanics",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/keplers-laws-and-orbital-mechanics/revision-notes/1430"
+    },
+    {
+        "name": "5.2.1\nElectric fields and potentials",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/electric-fields-and-potentials/revision-notes/1459"
+    },
+    {
+        "name": "5.2.2\nMagnetic fields and forces",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/magnetic-fields-and-forces/revision-notes/1482"
+    },
+    {
+        "name": "5.2.3\nCoulomb's law and Gauss’s law",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/coulombs-law-and-gausss-law/revision-notes/1499"
+    },
+    {
+        "name": "5.2.4\nApplications in motors and electromagnets",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/applications-in-motors-and-electromagnets/revision-notes/1532"
+    },
+    {
+        "name": "5.3.1\nCharge in magnetic fields",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/charge-in-magnetic-fields/revision-notes/1560"
+    },
+    {
+        "name": "5.3.2\nCyclotron and magnetic force on a current",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/cyclotron-and-magnetic-force-on-a-current/revision-notes/1591"
+    },
+    {
+        "name": "5.3.3\nMagnetic flux and induction",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/magnetic-flux-and-induction/revision-notes/1612"
+    },
+    {
+        "name": "5.4.1\nFaraday’s law of electromagnetic induction",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/faradays-law-of-electromagnetic-induction/revision-notes/1630"
+    },
+    {
+        "name": "5.4.2\nLenz's law and applications",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/lenzs-law-and-applications/revision-notes/1643"
+    },
+    {
+        "name": "5.4.3\nTransformers and power transmission",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/transformers-and-power-transmission/revision-notes/1659"
+    },
+    {
+        "name": "6.1.1\nLaboratory techniques and safety protocols",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/laboratory-techniques-and-safety-protocols/revision-notes/1512"
+    },
+    {
+        "name": "6.1.2\nData collection, analysis, and uncertainty in measurements",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/data-collection-analysis-and-uncertainty-in-measurements/revision-notes/1537"
+    },
+    {
+        "name": "6.1.3\nWriting scientific reports and conclusions",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/writing-scientific-reports-and-conclusions/revision-notes/1557"
+    },
+    {
+        "name": "6.2.1\nCollaborative research and experimental work",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/collaborative-research-and-experimental-work/revision-notes/1579"
+    },
+    {
+        "name": "6.2.2\nCommunicating scientific findings with others",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/communicating-scientific-findings-with-others/revision-notes/1604"
+    },
+    {
+        "name": "6.2.3\nWorking within interdisciplinary teams",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/working-within-interdisciplinary-teams/revision-notes/1621"
+    },
+    {
+        "name": "6.3.1\nDeveloping research questions and hypotheses",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/developing-research-questions-and-hypotheses/revision-notes/1655"
+    },
+    {
+        "name": "6.3.2\nDesigning experiments and gathering data",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/designing-experiments-and-gathering-data/revision-notes/1683"
+    },
+    {
+        "name": "6.3.3\nData analysis and interpretation of results",
+        "url": "https://www.sparkl.me/learn/ib/physics-hl/data-analysis-and-interpretation-of-results/revision-notes/1700"
+    }
+]
